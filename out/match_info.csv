@@ -1,0 +1,18 @@
+field,value
+matchDate,2024-02-17
+kickOffLocalTime,2024-02-17T17:30:00
+venue,Etihad Stadium
+attendance,53509
+referee,Andy Madley
+homeTeam,Man City
+homeTeamId,167
+homeManager,Pep Guardiola
+awayTeam,Chelsea
+awayTeamId,15
+awayManager,Mauricio Pochettino
+finalScore,1 : 1
+halfTimeScore,0 : 1
+homeGoals,1
+awayGoals,1
+status,FT
+weatherCode,5

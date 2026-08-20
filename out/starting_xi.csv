@@ -1,0 +1,23 @@
+team,formation,slot,playerId,name,shirtNo,position,vertical,horizontal,isCaptain
+Chelsea,4231,1,406564,Djordje Petrovic,28,GK,0.0,5.0,False
+Chelsea,4231,2,403850,Malo Gusto,27,DR,2.5,1.0,False
+Chelsea,4231,3,299272,Ben Chilwell,21,DL,2.5,9.0,True
+Chelsea,4231,4,369430,Enzo Fernández,8,DMC,5.0,6.5,False
+Chelsea,4231,5,300426,Axel Disasi,2,DC,2.5,3.5,False
+Chelsea,4231,6,421351,Levi Colwill,26,DC,2.5,6.5,False
+Chelsea,4231,7,395692,Cole Palmer,20,AMR,7.0,2.0,False
+Chelsea,4231,8,410175,Moisés Caicedo,25,DMC,5.0,3.5,False
+Chelsea,4231,9,426050,Nicolas Jackson,15,FW,9.0,5.0,False
+Chelsea,4231,10,375621,Conor Gallagher,23,AMC,7.0,5.0,False
+Chelsea,4231,11,97692,Raheem Sterling,7,AML,7.0,8.0,False
+Man City,4141,1,121774,Ederson,31,GK,0.0,5.0,False
+Man City,4141,2,69778,Kyle Walker,2,DR,2.5,1.0,True
+Man City,4141,3,122945,Nathan Aké,6,DL,2.5,9.0,False
+Man City,4141,4,303139,Rodri,16,DMC,4.5,5.0,False
+Man City,4141,5,297390,Manuel Akanji,25,DC,2.5,3.5,False
+Man City,4141,6,313171,Rúben Dias,3,DC,2.5,6.5,False
+Man City,4141,7,331254,Phil Foden,47,MR,7.0,1.0,False
+Man City,4141,8,73084,Kevin De Bruyne,17,MC,7.0,3.5,False
+Man City,4141,9,315227,Erling Haaland,9,FW,9.0,5.0,False
+Man City,4141,10,365409,Julián Alvarez,19,MC,7.0,6.5,False
+Man City,4141,11,388098,Jérémy Doku,11,ML,7.0,9.0,False

@@ -1,0 +1,41 @@
+playerId,name,team,teamId,field,shirtNo,position,age,heightCm,weightKg,isFirstEleven,isManOfTheMatch
+121774,Ederson,Man City,167,home,31,GK,33,188,90,True,False
+69778,Kyle Walker,Man City,167,home,2,DR,36,183,80,True,False
+313171,Rúben Dias,Man City,167,home,3,DC,29,187,86,True,False
+297390,Manuel Akanji,Man City,167,home,25,DC,31,188,91,True,False
+122945,Nathan Aké,Man City,167,home,6,DL,31,180,84,True,False
+303139,Rodri,Man City,167,home,16,DMC,30,190,90,True,True
+331254,Phil Foden,Man City,167,home,47,MR,26,171,63,True,False
+365409,Julián Alvarez,Man City,167,home,19,MC,26,170,71,True,False
+73084,Kevin De Bruyne,Man City,167,home,17,MC,35,181,79,True,False
+388098,Jérémy Doku,Man City,167,home,11,ML,24,173,82,True,False
+315227,Erling Haaland,Man City,167,home,9,FW,26,195,94,True,False
+136741,Bernardo Silva,Man City,167,home,20,Sub,32,173,63,,False
+93894,Mateo Kovacic,Man City,167,home,8,Sub,32,177,78,,False
+133569,Stefan Ortega,Man City,167,home,18,Sub,33,185,88,,False
+430709,Oscar Bobb,Man City,167,home,52,Sub,23,175,72,,False
+394933,Matheus Nunes,Man City,167,home,27,Sub,27,183,78,,False
+449161,Mahamadou Susoho,Man City,167,home,76,Sub,21,175,0,,False
+355110,Sergio Gómez,Man City,167,home,21,Sub,25,173,71,,False
+101374,John Stones,Man City,167,home,5,Sub,32,188,80,,False
+444791,Rico Lewis,Man City,167,home,82,Sub,21,170,64,,False
+406564,Djordje Petrovic,Chelsea,15,away,28,GK,26,194,89,True,False
+403850,Malo Gusto,Chelsea,15,away,27,DR,23,178,67,True,False
+300426,Axel Disasi,Chelsea,15,away,2,DC,28,190,83,True,False
+421351,Levi Colwill,Chelsea,15,away,26,DC,23,187,83,True,False
+299272,Ben Chilwell,Chelsea,15,away,21,DL,29,178,77,True,False
+369430,Enzo Fernández,Chelsea,15,away,8,DMC,25,178,73,True,False
+410175,Moisés Caicedo,Chelsea,15,away,25,DMC,24,178,80,True,False
+395692,Cole Palmer,Chelsea,15,away,20,AMR,24,189,76,True,False
+375621,Conor Gallagher,Chelsea,15,away,23,AMC,26,183,77,True,False
+97692,Raheem Sterling,Chelsea,15,away,7,AML,31,172,69,True,False
+426050,Nicolas Jackson,Chelsea,15,away,15,FW,25,187,82,True,False
+300945,Christopher Nkunku,Chelsea,15,away,18,Sub,28,178,68,,False
+433219,Cesare Casadei,Chelsea,15,away,31,Sub,23,192,77,,False
+353292,Trevoh Chalobah,Chelsea,15,away,14,Sub,27,190,75,,False
+409376,Mykhailo Mudryk,Chelsea,15,away,10,Sub,25,175,61,,False
+135768,Marcus Bettinelli,Chelsea,15,away,13,Sub,34,193,82,,False
+389935,Noni Madueke,Chelsea,15,away,11,Sub,24,183,83,,False
+467969,Alfie Gilchrist,Chelsea,15,away,42,Sub,22,183,78,,False
+516952,Ollie Harrison,Chelsea,15,away,79,Sub,19,187,0,,False
+463992,Ishé Samuels-Smith,Chelsea,15,away,53,Sub,20,186,0,,False
